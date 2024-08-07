@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kameshwaran 
-- 👀 I’m interested in Web Development  
-- 🌱 I’m pursuing B.Tech/Info Tech  
-- 💎Skills : HTML, CSS, JavaScript, Python
+- 👋 Hi, I’m Kameshwaran   
+- 🌱 Aspiring Software Developer 
+- 👀 I’m interested in Web Development < / > 
+- 💎Skills : HTML, CSS, Python, SQL, JS
 
 
